@@ -8,7 +8,7 @@ He is currently pursuing a Doctor's Degree in Computer Science, at School of Com
 jinghdeng2[at]cityu.edu.hk
 
 #### Education
-Ph.D.,Computer Science and Technology, City University of Hong Kong (CityUHK), 2023-2027 (expected).\ 
+Ph.D.,Computer Science and Technology, City University of Hong Kong (CityUHK), 2023-2027 (expected).\
 M.E., Vehicle Engineering, Beihang University (BUAA), 2020-2023.\
 B.E., Vehicle Engineering, Beihang University (BUAA), 2016-2020.
 
